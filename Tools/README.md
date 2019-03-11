@@ -4,7 +4,7 @@ Diese Seite beschreibt die Installation und Benuzung von den verschiedenen Progr
 
 ## Inhaltsverzeichnis
 
--  [GitHub Account](#GitHub-Account)
+- [GitHub Account](#GitHub-Account)
 - [Git Client](#Git-CLient)
 - [VirtualBox](#VirtualBox)
 - [Vagrant](#Vagrant)

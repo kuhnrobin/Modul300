@@ -6,8 +6,6 @@ Auf dieser Seite gibt verschiedene Tipps und Tricks!
 ***
 - Github
 - Vagrant
-- bla
-- bal
 
 
 ## Github

@@ -21,6 +21,7 @@ Die ganzen verschiedenen Boxen kann man unter folgender Webseite herunterladen: 
 ***
 
 Diese Befehle werden im zusammenhang von Vagrant gebraucht:
+
 | *Befehl*     | *Bedeutung* |
 |------------|-----------|
 | vagrant init | Initialisiert eine Vagrant-Umgebung und erzeugt ein Vagrantfile    |

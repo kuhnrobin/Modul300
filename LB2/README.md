@@ -1,6 +1,6 @@
 # LB2
 
-Beschreibung!
+
 
 
 ## Inhaltsverzeichnis

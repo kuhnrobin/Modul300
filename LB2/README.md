@@ -9,7 +9,7 @@ Beschreibung!
 - K2 Persönlicher Wissenstand
 - K3 Vagrant
 - K4 Sicherheit
-- bla
+- K5 Lehrentwicklung
 
 
 ## K2 Persönlicher Wissenstand
@@ -125,7 +125,7 @@ Wie das die ganze rechte Vergabe funktioniert finden Sei [hier]().
 Dazu habe ich bei allen Benutzern ein neues Passwort vergeben.
 
 
-## K5 
+## K5 Lehrentwicklung
 ***
 
 ### Wissenszuwachs

@@ -4,8 +4,8 @@ Auf dieser Seite gibt verschiedene Tipps und Tricks!
 
 ## Inhaltsverzeichniss
 ***
-- bla
-- bla
+- Github
+- Vagrant
 - bla
 - bal
 
@@ -17,6 +17,7 @@ Auf dieser Seite gibt verschiedene Tipps und Tricks!
 ## Vagrant
 ***
 Die ganzen verschiedenen Boxen kann man unter folgender Webseite herunterladen: https://app.vagrantup.com/boxes
+
 ### Vagrant Befehle
 ***
 

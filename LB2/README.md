@@ -56,7 +56,8 @@ Ich habe folgende VM heruntergeladen: [debian/stretch64](https://app.vagrantup.c
 
 Folgende Sachen habe ich im Vagrantfile angepasst:   
 Der VM habe ich mehr RAM Speicher gegeben und das bei der Installation apache heruntergeladen und installiert werden sollte.
-![](../images/Konfiguration.jpg "Konfiguration")
+
+![](images/Konfiguration.jpg)
 
 ### Vagrant Befehle
 ***

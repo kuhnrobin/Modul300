@@ -2,7 +2,7 @@
 
 Auf dieser Seite gibt verschiedene Tipps und Tricks!
 
-## Inhaltsverzeichniss
+## Inhaltsverzeichnis
 ***
 - Github
 - Vagrant

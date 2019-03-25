@@ -21,7 +21,7 @@ Auf dieser Seite gibt verschiedene Tipps und Tricks!
 | git pull | Repository aktualisieren |
 | git status | Status anzeigen |
 | git add -A | Dateien dem Upload hinzufügen |
-| git commit -m | Upload commiten |
+| git commit -m "Kommentar" | Upload commiten, und einen Kommentar hinzufügen |
 | git push | Upload pushen |
 | h | b |
 

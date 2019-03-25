@@ -61,7 +61,7 @@ Ich habe folgende VM heruntergeladen: [debian/stretch64](https://app.vagrantup.c
 Folgende Sachen habe ich im Vagrantfile angepasst:   
 Der VM habe ich mehr RAM Speicher gegeben und das bei der Installation apache heruntergeladen und installiert werden sollte.
 
-![](images/Konfiguration.jpg)
+![](images/Konfiguration.JPG)
 
 ### Vagrant Befehle
 ***
@@ -79,7 +79,7 @@ Der erste Test ist die Überprüfung ob die VM wirklich  1024 MB RAM zugewissen 
 Der zweite Test war das Starten/verbinden mit der VM. Dies klappte wunderbar.   
 Der letzte Test war die Überprüfung ab der Apache Server läuft. dazu ging ich auf [127.0.0.1:8080](127.0.0.1:8080). Leider ist die Seite nicht erreichbar.
 
-![](../images/Verbindung.jpg "Fehlgeschlagene Verbindung")
+![](../images/Verbindung.JPG "Fehlgeschlagene Verbindung")
 
 Laut der Installation ist der Apache Server installiert worden, aber er ist im Verzeichniss nicht zu finden.
 

@@ -61,7 +61,9 @@ Ich habe folgende VM heruntergeladen: [debian/stretch64](https://app.vagrantup.c
 Folgende Sachen habe ich im Vagrantfile angepasst:   
 Der VM habe ich mehr RAM Speicher gegeben und das bei der Installation apache heruntergeladen und installiert werden sollte.
 
+
 ![](images/Konfiguration.JPG)
+
 
 ### Vagrant Befehle
 ***
@@ -75,7 +77,9 @@ Ich habe folgende Test aufgeführt um zu überprüfen ob die VM richtig aufgeset
 
 Der erste Test ist die Überprüfung ob die VM wirklich  1024 MB RAM zugewissen bekommen hat. Dazu schaute ich in den Einstellungen vom VirtualBox.
 
+
 ![](..images/RAM_Test.JPG "RAM Test")
+
 
 Der zweite Test war das Starten/verbinden mit der VM. Dies klappte wunderbar.   
 Der letzte Test war die Überprüfung ab der Apache Server läuft. dazu ging ich auf [127.0.0.1:8080](127.0.0.1:8080). Leider ist die Seite nicht erreichbar.

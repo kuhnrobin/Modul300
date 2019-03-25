@@ -77,7 +77,11 @@ Der erste Test ist die Überprüfung ob die VM wirklich  1024 MB RAM zugewissen 
 ![](..images/RAM_Test.jpg "RAM Test")
 
 Der zweite Test war das Starten/verbinden mit der VM. Dies klappte wunderbar.   
-Der letzte Test war die Überprüfung ab der Apache Server läuft. dazu ging ich auf [127.0.0.1:8080](127.0.0.1:8080). Leider ist die Seite nicht erreichbar. ![](../images/Verbindung.jpg "Fehlgeschlagene Verbindung") Laut der Installation ist der Apache Server installiert worden, aber er ist im Verzeichniss nicht zu finden.
+Der letzte Test war die Überprüfung ab der Apache Server läuft. dazu ging ich auf [127.0.0.1:8080](127.0.0.1:8080). Leider ist die Seite nicht erreichbar.
+
+![](../images/Verbindung.jpg "Fehlgeschlagene Verbindung")
+
+Laut der Installation ist der Apache Server installiert worden, aber er ist im Verzeichniss nicht zu finden.
 
 ## Weitere VMs
 ***

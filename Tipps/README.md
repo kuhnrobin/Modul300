@@ -12,6 +12,17 @@ Auf dieser Seite gibt verschiedene Tipps und Tricks!
 ## Github
 ***
 
+### Befehle
+***
+
+| *Befehl*     | *Bedeutung* |
+|------------|-----------|
+| git pull | Repository aktualisieren |
+| git status | Status anzeigen |
+| git add -A | Dateien dem Upload hinzufügen |
+| git commit -m | Upload commiten |
+| git push | Upload pushen |
+| h | b |
 
 ## Vagrant
 ***

@@ -4,9 +4,9 @@ Auf dieser Seite gibt verschiedene Tipps und Tricks!
 
 ## Inhaltsverzeichnis
 ***
-- Github
-- Vagrant
-- Markdown
+- [Github](#Github)
+- [Vagrant](#Vagrant)
+- [Markdown](#Markdown)
 
 
 ## Github
@@ -34,7 +34,7 @@ Die ganzen verschiedenen Boxen kann man unter folgender Webseite herunterladen: 
 ### Vagrant Befehle
 ***
 
-Diese Befehle werden im zusammenhang von Vagrant gebraucht:
+Diese Befehle werden im Zusammenhang von Vagrant gebraucht:
 
 | *Befehl*     | *Bedeutung* |
 |------------|-----------|

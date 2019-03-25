@@ -62,7 +62,7 @@ Folgende Sachen habe ich im Vagrantfile angepasst:
 Der VM habe ich mehr RAM Speicher gegeben und das bei der Installation apache heruntergeladen und installiert werden sollte.
 
 
-![](images/Konfiguration.JPG)
+![](../images/Konfiguration.JPG)
 
 
 ### Vagrant Befehle
@@ -78,7 +78,7 @@ Ich habe folgende Test aufgeführt um zu überprüfen ob die VM richtig aufgeset
 Der erste Test ist die Überprüfung ob die VM wirklich  1024 MB RAM zugewissen bekommen hat. Dazu schaute ich in den Einstellungen vom VirtualBox.
 
 
-![](..images/RAM_Test.JPG "RAM Test")
+![](../images/RAM_Test.JPG "RAM Test")
 
 
 Der zweite Test war das Starten/verbinden mit der VM. Dies klappte wunderbar.   

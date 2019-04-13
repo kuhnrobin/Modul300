@@ -4,9 +4,14 @@ Auf dieser Seite gibt verschiedene Tipps und Tricks!
 
 ## Inhaltsverzeichnis
 ***
-- [Github](#Github)
-- [Vagrant](#Vagrant)
-- [Markdown](#Markdown)
+- [Tipps und Tricks!](#tipps-und-tricks)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [Github](#github)
+    - [Befehle](#befehle)
+  - [Vagrant](#vagrant)
+    - [Vagrant Befehle](#vagrant-befehle)
+    - [Markdown](#markdown)
+    - [Docker](#docker)
 
 
 ## Github
@@ -53,3 +58,19 @@ Weitere Befehle finden Sie [hier](https://www.vagrantup.com/docs/cli/).
 ***
 > [^ **Nach oben**](#Inhaltsverzeichnis)
 > 
+
+
+
+
+### Docker
+***
+[^ **Nach oben**](#Inhaltsverzeichnis)
+
+| *Befehl*     | *Bedeutung* |
+|------------|-----------|
+| docker ps |  Sieht die aktiven Container   |
+| docker images |  Sieht alles heruntergeladenen Images   |
+| docker run |  Startet einen Container   |
+| docker kill |  Beendet einen Container  |
+| docker rm | Container löschen   |
+| docker logs | Gibt die logs vom Container aus   |

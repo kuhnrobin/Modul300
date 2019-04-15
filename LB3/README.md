@@ -63,7 +63,17 @@ Die Container die erfahrungsgemäss wenig CPU Leistung brauchen, gibt man wenige
 ## K5
 ***
 
+### Vergleich Vorwissen - Wissenszuwachs
+***
 
+#### Containerisierung/Docker
+
+Ich konnte mich sehr intensiv mit dem Thema auseinander setzten. Ich verstehe jetzt auch genauer was gemeint ist das dies die Zukunft sein werden wird. Es macht das genze viel einfacherer.
+
+#### Microservices
+
+Der Wissenszuwachs war bei mir jetzt in diesem Thema nicht sehr gross. Da es mich aber intressiert werde ich mich in Zukunft genauer damit beschäftigen.
 
 ## K6
 ***
+

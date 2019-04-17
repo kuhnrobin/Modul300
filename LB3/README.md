@@ -44,11 +44,14 @@ VOLUME /var/lib/docker/volumes
  docker run -d -p 2368:2368  -v ~/data/gost:/var/lib/docker/volumes --name gost --rm gost
 ```
 
-Zum das ganze zu Überprüfen ob es funktioniert bin ich auf die Webseite gegangen (localhost:2368).    
-(Bild)   
+Zum das ganze zu Überprüfen ob es funktioniert bin ich auf die Webseite gegangen (localhost:2368).
+
+![](../images/Testghost.JPG "Startseite Ghost")
+
 Dort sieht man die Startseite, um diese zu verändern. Muss man auf localhost:8080 zugreiffen.
-Dort habe ich den Titel vom ersten Blog verändert um zu schauen ob dies funktioniert.   
-(bild)
+Dort habe ich den Titel vom ersten Blog verändert um zu schauen ob dies funktioniert.
+
+![](../images/änderungen.JPG "Anpassen vom Titel")
 
 
 

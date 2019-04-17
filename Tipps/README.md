@@ -4,14 +4,12 @@ Auf dieser Seite gibt verschiedene Tipps und Tricks!
 
 ## Inhaltsverzeichnis
 ***
-- [Tipps und Tricks!](#tipps-und-tricks)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Github](#github)
-    - [Befehle](#befehle)
-  - [Vagrant](#vagrant)
-    - [Vagrant Befehle](#vagrant-befehle)
-    - [Markdown](#markdown)
-    - [Docker](#docker)
+- [Github](#github)
+- [Befehle](#befehle)
+- [Vagrant](#vagrant)
+- [Vagrant Befehle](#vagrant-befehle)
+- [Markdown](#markdown)
+- [Docker](#docker)
 
 
 ## Github

@@ -52,7 +52,7 @@ Dort sieht man die Startseite, um diese zu verändern. Muss man auf localhost:80
 Dort habe ich den Titel vom ersten Blog verändert um zu schauen ob dies funktioniert.    
 
 
-![](../images/Aenderungen.JPG "Anpassen vom Titel")
+![](../images/Aenderung.JPG "Anpassen vom Titel")
 
 
 

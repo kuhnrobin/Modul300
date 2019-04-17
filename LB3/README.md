@@ -7,13 +7,16 @@ blavla
 ## Inhaltsverzeichnis
 ***
 
-- bpa
-- babba
-- jbjo
+- [Persönlicher Wissenstand](#Persönlicher-Wissenstand)
+- [K3](#K3)
+- [K4](#K4)
+- [K5](#K5)
+- [K6](#K6)
   
 
 ## Persönlicher Wissenstand
 ***
+[^ **Nach oben**](#Inhaltsverzeichnis)
 
 ### Containerisierung/Docker
 ***
@@ -28,6 +31,7 @@ Microservices habe ich auch schon gehört, kann mir aber nicht genauers vorstell
 
 ## K3
 ***
+[^ **Nach oben**](#Inhaltsverzeichnis)
 
 Zum Umsetzen von K3 habe ich mich für Ghost einschieden. Gost ist eine Open Source Blogging Plattform die auf Java Skript geschrieben ist.
 
@@ -35,9 +39,9 @@ Dazu habe ich lediglich ins Vagrantfile (Link) die 2 Startbefehle reingeschriebe
 
 Nachher habe ich noch ein eingenes Volumes für den Contaier errichtet:    
 ```
-VOLUME /var/lib/gost
+VOLUME /var/lib/docker/volumes
 
- docker run -d -p 2368:2368  -v ~/data/gost:/var/lib/gost --name gost --rm gost
+ docker run -d -p 2368:2368  -v ~/data/gost:/var/lib/docker/volumes --name gost --rm gost
 ```
 
 Zum das ganze zu Überprüfen ob es funktioniert bin ich auf die Webseite gegangen (localhost:2368).    
@@ -51,6 +55,7 @@ Dort habe ich den Titel vom ersten Blog verändert um zu schauen ob dies funktio
 
 ## K4
 ***
+[^ **Nach oben**](#Inhaltsverzeichnis)
 
 Um die Sicherheit von der VM und den Containers zu garantieren habe ich folgende Massnahmen getroffen:    
 
@@ -62,6 +67,7 @@ Die Container die erfahrungsgemäss wenig CPU Leistung brauchen, gibt man wenige
 
 ## K5
 ***
+[^ **Nach oben**](#Inhaltsverzeichnis)
 
 ### Vergleich Vorwissen - Wissenszuwachs
 ***
@@ -76,4 +82,5 @@ Der Wissenszuwachs war bei mir jetzt in diesem Thema nicht sehr gross. Da es mic
 
 ## K6
 ***
+[^ **Nach oben**](#Inhaltsverzeichnis)
 
